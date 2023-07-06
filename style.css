@@ -1,0 +1,72 @@
+.container{
+	width:100%;
+	
+}
+.row{
+	margin:30px;
+	width:100%;	
+}
+.original{
+	width:50%;
+	filter:none;
+}
+.blar{
+	width:50%;
+	filter:blur(10px);
+}
+.brightness{
+	width:50%;
+	filter:brightness(200%);
+}
+.contrast{
+	width:50%;
+	filter:contrast(200%);
+}
+
+.grayscale{
+	width:50%;
+	filter:grayscale(200%);
+}
+
+.hue-rotate{
+	width:50%;
+	filter:hue-rotate(90deg);
+}
+
+.invert{
+	width:50%;
+	filter:invert(100%);
+}
+
+.opacity{
+	width:50%;
+	filter:opacity(30%);
+}
+
+.saturate{
+	width:50%;
+	filter:saturate(8);
+}
+
+.sepia{
+	width:50%;
+	filter:sepia(100%);
+	
+}
+
+
+.shadow{
+	width:50%;
+	filter:shadow(40px 20px 5px lightblue);
+}
+
+
+.contrast{
+	width:50%;
+	filter:contrast(10%);
+}
+
+.contrast{
+	width:50%;
+	filter:contrast(10%);
+}
